@@ -1,0 +1,4 @@
+1.React
+2.TypeScript
+3.Redux Toolkit
+4.Tailwind
