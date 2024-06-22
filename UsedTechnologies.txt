@@ -1,4 +1,5 @@
 1.React
 2.TypeScript
-3.Redux Toolkit
-4.Tailwind
+3.React Router
+4.Redux Toolkit
+5.Tailwind
